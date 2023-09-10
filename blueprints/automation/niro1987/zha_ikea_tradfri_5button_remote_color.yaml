@@ -87,8 +87,8 @@ action:
             data:
               brightness: 254
               hs_color:
-                - 38.222
-                - 52.941
+                - 27.911 
+                - 58.298
 
       # Short-Press on the dim-up button.
       - conditions:
