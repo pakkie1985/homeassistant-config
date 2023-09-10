@@ -85,10 +85,19 @@ action:
             target:
               entity_id: !input light
             data:
-              brightness: 102
+              brightness: 76
               hs_color:
-                - 28.391 
+                - 28.391
                 - 65.659
+              rgb_color:
+                - 255
+                - 166
+                - 87
+              xy_color:
+                - 0.526
+                - 0.387
+              color_temp_kelvin: 2702
+              color_temp: 370
 
       # Short-Press on the dim-up button.
       - conditions:
